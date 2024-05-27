@@ -1,0 +1,10 @@
+.Full-box {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.image {
+  width: 100px;
+  height: 100px;
+}
